@@ -23,7 +23,7 @@ Users should not upload any images that contain private information or any other
 ![image](https://github.com/edwardshen24/Pothole-Detection-Project/assets/96637551/82fbda3d-0664-4259-922d-75647fefaf9a)
 
 
-- OpenAI Vision Detection
+- OpenAI Vision detection and insights
 
 ![image](https://github.com/edwardshen24/Pothole-Detection-Project/assets/96637551/02d25de8-ca4a-4ea1-81a5-0a9f6edf2ecb)
 
