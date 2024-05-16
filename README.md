@@ -7,8 +7,7 @@ Pothole Detection lets users upload images of potholes which then get recognized
 Our program addresses UN SDG: INDUSTRY, INNOVATION AND INFRASTRUCTURE Section 9, and we are specifically focused on target 9.1 " Target Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all"
 
 # Problems with Potholes
-- Potholes cost drivers in the state of California over $3 billion a year due to damages
-- Cars are necessary for getting to work, getting groceries, and getting to school.
+- Potholes cost drivers in the state of California over $3 billion a year due to damages.
 - Potholes can impede traffic, increase commute times, and damage cars.
 
 # Solution and Usage
