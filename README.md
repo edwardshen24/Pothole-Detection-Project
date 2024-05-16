@@ -1,6 +1,6 @@
 # Overview
 
-Program which lets users upload images of potholes which then get recognized by OpenAI Vision and put on a map to inform users of better routes, as well as encouraging city governments to view the maps so they know the roads to fix. 
+Pothole Detection lets users upload images of potholes which then get recognized by OpenAI Vision and put on a map to inform users of better routes, as well as encouraging city governments to view the maps so they know the roads to fix. 
 
 
 # Sustainable Development
