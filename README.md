@@ -11,7 +11,7 @@ Our program addresses UN SDG: INDUSTRY, INNOVATION AND INFRASTRUCTURE Section 9,
 - Potholes can impede traffic, increase commute times, and damage cars.
 
 # Solution and Usage
-We wanted to develop a program that lets users effortlessly report potholes so that they can be reported easily and seen by other drivers as well as city governments. All the user has to do is upload an image of a pothole and the program does the rest from there. Ideally the picture is best taken from a phone but if the user is in a car, it is advised that the image is captured through a dashcam or if the car has built-in video recorders like a Tesla, those can also be used. 
+We wanted to develop a program that lets users effortlessly report potholes so that they can be seen by other drivers as well as city governments. All the user has to do is upload an image of a pothole and the program does the rest from there. Ideally the picture is best taken from a phone but if the user is in a car, it is advised that the image is captured through a dashcam or if the car has built-in video recorders like a Tesla, those can also be used. 
 
 # Disclaimer
 Users should not upload any images that contain private information or any other information they don't wish to share with the world. Users should also be mindful of their surroundings when taking pictures of potholes and always be vigilant as to not get hurt. 
