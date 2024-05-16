@@ -28,6 +28,6 @@ Users should not upload any images that contain private information or any other
 ![image](https://github.com/edwardshen24/Pothole-Detection-Project/assets/96637551/02d25de8-ca4a-4ea1-81a5-0a9f6edf2ecb)
 
 
-- Folium Map that shows pothole locations
+- Folium Map that shows pothole locations based on metadata
 
 ![image](https://github.com/edwardshen24/Pothole-Detection-Project/assets/96637551/9e459005-c1b6-42ae-936c-83b6535a8479)
