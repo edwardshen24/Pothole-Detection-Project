@@ -1,4 +1,4 @@
-#Overview
+##Overview
 
 Chatbot that assists college students 24/7 in exploring STEM majors and careers, so they can be more confident in their decisions.
 #CASExplorer: What is it?
